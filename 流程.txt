@@ -1,0 +1,12 @@
+1.解压tar.xz文件 然后上传解压好的文件
+2.修改配置文件（服务端）---证书放置与申请
+3.将Trojan设置成服务
+4.安装caddy并将其设置为服务 并改配置文件为代理某个网站什么的 
+5.启动caddy和Trojan       查看Trojan的状态是否运行（running？）
+
+6.目前caddy 、Trojan、 v2ray、brook可以通过下载二进制压缩包并上传的方式安装   其他的不清楚。
+
+
+注：（1）brook、Trojan、v2ray三者均可以使用下载二进制包并解压执行的方式安装（解压后直接就可以使用了无需安装  ./erjinzhiwenjianming）运行
+（2）此外v2ray还可以通过官网脚本的方式安装              brook、Trojan也可以利用各种脚本安装 推荐二进制包安装 无后门
+（3）ss和ssr暂时没有二进制包
